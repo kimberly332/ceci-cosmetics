@@ -19,5 +19,5 @@ Adobe Illustrator Photoshop InDesign
 
 ### License
 
-Copyright © 2020, [Shan-Li Wang](https://github.com/kimberly332) / [Elaine Balgos](https://github.com/ElaineBalgos).
+Copyright © 2022, [Shan-Li Wang](https://github.com/kimberly332) / [Elaine Balgos](https://github.com/ElaineBalgos).
 Released under the MIT License.
